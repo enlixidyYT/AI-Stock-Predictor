@@ -1,0 +1,6 @@
+{
+  "name": "Stock Market AI Tracker",
+  "description": "Real-time stock market tracker featuring custom push alerts and AI-driven news sentiment analysis to evaluate optimal buy and sell opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
